@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: LBF-Genetaror
+title: "LBD Genetaror"
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -8,8 +8,6 @@ authors:
   - given-names: Jyrki
     family-names: Oraskari
     email: Jyrki.Oraskari@rwth-aachen.de
-abstract: >-
-.
 license: Apache-2.0
 commit: 65cb3de
 version: '1.0.0'
