@@ -1,0 +1,5 @@
+
+create.bot.example/target/*
+create.bot.example/.settings/*
+create.bot.example/.classpath
+create.bot.example/.project
